@@ -12,7 +12,6 @@ After executing the program we reach the conclusion that the feature name ‘Unn
 Divided the dataset into independent and dependent variables, for that we create two variables one represents independent and the other represents dependent.
 # Splitting Data
 Splitting the data into training and testing parts:
-This article was published as a part of the Data Science Blogathon
 # Scaling the Data
 I have created the artificial neural network, then  scale the data into smaller numbers because the deep learning algorithm multiplies the weights and input data of the nodes and it takes lots of time, So for reducing that time we scale the data.
 
